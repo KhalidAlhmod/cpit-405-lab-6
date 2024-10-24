@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+}
+    #LikeBtn,
+    #DisLikeBtn {
+    padding: 0 5%;
+    font-size: 40px;
+    }
+    h1,
+    h2 {
+    color: #575757;
+    }
+    #submit, #clear{
+    margin: 5px;
+    padding: 10px;
+    font-size: 18px;
+    }
+    .comments{
+        margin-top: 3%;
+    }
+    .comments h3{
+        margin-top: 1.5%;
+    }
+    #commentBox {
+        width: 35%;
+        height: 100px;
+        margin: 0 35%;
+        padding: 10px;
+        font-size: 15px;
+        border: 1px solid #333;
+        border-radius: 5px;
+        display: block;
+    }
+        #submit,
+        #clear{
+        padding: 10px 20px;
+        font-size: 14px;
+        color: #fff;
+        background-color:#5c5a5a
+        
+        }
+    #commentList p{
+        font-size: 15px;
+
+
+
+    }
